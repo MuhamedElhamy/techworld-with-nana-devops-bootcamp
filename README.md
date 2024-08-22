@@ -1,7 +1,7 @@
 # 🚀 Techworld with Nana DevOps Bootcamp Documentation
 
 Welcome to my DevOps Bootcamp notes and projects repository! This bootcamp covers essential DevOps concepts and tools, providing a strong foundation in:
-[Link to README in subdirectory](./my-notes/01%20-%20Introduction%20to%20DevOps%202bbeac75779346eb863bebce6262d83a.md)
+[01 - Introduction to DevOps](./my-notes/01%20-%20Introduction%20to%20DevOps%202bbeac75779346eb863bebce6262d83a.md)
 
 - 🖥️ **Operating Systems & Linux:** Understanding OS fundamentals and mastering Linux CLI to prepare server infrastructure. Learn to navigate, configure, and optimize systems for DevOps tasks.
   
