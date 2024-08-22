@@ -4,6 +4,10 @@ Welcome to my DevOps Bootcamp notes and projects repository! This bootcamp cover
 
 [01 - Introduction to DevOps](./my-notes/01%20-%20Introduction%20to%20DevOps%202bbeac75779346eb863bebce6262d83a.md)
 
+[02 - Operating Systems & Linux Basics](./my-notes/02%20-%20Operating%20Systems%20&%20Linux%20Basics%20a3bedbce0e0b43b887b706406e2a63e6.md)
+
+[03 - Version Control with Git](./my-notes/03%20-%20Version%20Control%20with%20Git%20694ac44b2ea7452397526abd1c385bb4.md)
+
 - 🖥️ **Operating Systems & Linux:** Understanding OS fundamentals and mastering Linux CLI to prepare server infrastructure. Learn to navigate, configure, and optimize systems for DevOps tasks.
   
 - 🌱 **Version Control with Git:** Managing code and configuration files using Git, the industry-standard version control tool. Track changes, collaborate, and ensure code integrity throughout the development lifecycle.
