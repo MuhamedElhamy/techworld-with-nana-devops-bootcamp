@@ -168,13 +168,9 @@
         - In the editor will be possible to see the remote and local changes as the end result
         - we must decide which one to proceed
         - Example on VS Code before any action:
-            
-            ![Screenshot 2022-09-13 at 10.42.31.png](03%20-%20Version%20Control%20with%20Git%20694ac44b2ea7452397526abd1c385bb4/Screenshot_2022-09-13_at_10.42.31.png)
-            
+                        
         - Example on VS Code after accepting the "Current" origin change (which is the one on the remote) and manually adding "… and locally”:
-        
-        ![Screenshot 2022-09-13 at 10.43.11.png](03%20-%20Version%20Control%20with%20Git%20694ac44b2ea7452397526abd1c385bb4/Screenshot_2022-09-13_at_10.43.11.png)
-        
+                
         - Click Accept Merge (not sure if it's necessary or just save)
     - Go back to t he command line and run $ git status to check, it will say the rebase is in progress
     - When the conflicts are solved we can run $ git rebase --continue
