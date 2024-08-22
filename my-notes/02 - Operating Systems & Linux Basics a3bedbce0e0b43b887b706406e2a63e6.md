@@ -1,11 +1,5 @@
 # 02 - Operating Systems & Linux Basics
 
-# Course Documents
-
-[02 - Linux Checklist.pdf](https://drive.google.com/file/d/1QLdVRcs5lVE3kPEasbPPFC3rnMwa9ACs/view?usp=drivesdk)
-
-[02 - Linux Handout.pdf](https://drive.google.com/file/d/1QIcbuVXONGk055rBOUvCemLEntJSFNgY/view?usp=drivesdk)
-
 # File System
 
 - /bin contains system-wide binaries that are available to all users
