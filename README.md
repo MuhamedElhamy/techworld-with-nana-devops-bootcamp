@@ -1,4 +1,11 @@
-# 🚀 Techworld with Nana DevOps Bootcamp Documentation
+# 🚀 Techworld with Nana DevOps Bootcamp
+
+![intro.png](assets%2Fintro.png)
+
+## Schedule
+
+![schedule-1.png](assets%2Fschedule-1.png)
+![schedule-2.png](assets%2Fschedule-2.png)
 
 Welcome to my DevOps Bootcamp notes and projects repository! This bootcamp covers essential DevOps concepts and tools, providing a strong foundation in:
 
