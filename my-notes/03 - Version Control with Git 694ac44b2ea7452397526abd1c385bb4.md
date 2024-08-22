@@ -1,11 +1,5 @@
 # 03 - Version Control with Git
 
-# Course Documents
-
-[03 - Git Checklist.pdf](https://drive.google.com/file/d/1RCafn1RMyCsC3uyqAOKYItDOigwQARem/view?usp=drivesdk)
-
-[03 - Git Handout.pdf](https://drive.google.com/file/d/1RId0PS9p03uc0RwQmPPV_lB68RTD_8vV/view?usp=drivesdk)
-
 # Intro do Version Control and Git
 
 - Devs working on the same code
