@@ -15,6 +15,12 @@ Welcome to my DevOps Bootcamp notes and projects repository! This bootcamp cover
 
 [03 - Version Control with Git](./my-notes/03%20-%20Version%20Control%20with%20Git.md)
 
+[04 - Build Tools and Package Manager Tools](./my-notes/04%20-%20Build%20Tools%20and%20Package%20Manager%20Tools.md)
+
+[05 - Cloud & IaaS Basics](./my-notes/05%20-%20Cloud%20&%20IaaS%20Basics.md)
+
+[06 - Artifact Repo Manager](./my-notes/06%20-%20Artifact%20Repo%20Manager.md)
+
 - 🖥️ **Operating Systems & Linux:** Understanding OS fundamentals and mastering Linux CLI to prepare server infrastructure. Learn to navigate, configure, and optimize systems for DevOps tasks.
   
 - 🌱 **Version Control with Git:** Managing code and configuration files using Git, the industry-standard version control tool. Track changes, collaborate, and ensure code integrity throughout the development lifecycle.
